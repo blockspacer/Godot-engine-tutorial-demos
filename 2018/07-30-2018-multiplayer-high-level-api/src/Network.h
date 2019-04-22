@@ -32,9 +32,7 @@ public:
 
 private:
     Ref<PackedScene> PlayerScene;
-    const String SERVER_IP = "192.168.1.65";
-    //const String SERVER_IP = "108.173.86.43";
-    //const String SERVER_IP = "172.98.66.215";
+    const String SERVER_IP = "127.0.0.1";
     const int64_t SERVER_PORT = 31400;
     const int64_t MAX_PLAYERS = 5;
     Dictionary selfData;
