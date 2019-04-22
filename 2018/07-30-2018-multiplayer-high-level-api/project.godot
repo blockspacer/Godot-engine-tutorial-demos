@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Oversight"
+config/name="Multiplayer Demo"
 run/main_scene="res://interface/Menu.tscn"
 config/icon="res://icon.png"
 
